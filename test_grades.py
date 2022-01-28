@@ -1,6 +1,6 @@
 
 from grades import compute_hw_average
-
+import numpy as np
 
 def test_zero_grades():
     grades = []
