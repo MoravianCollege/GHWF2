@@ -6,6 +6,7 @@ Practice space for using the Github Workflow.
 Participants:
 Ben Coleman
 Shane Houghton
+Richie Glennon
 
 ## Setup
 
