@@ -4,7 +4,7 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Dr. Ben Coleman
+Dr. Ben Coleman, DDS
 Shane Houghton
 Richie Glennon
 
